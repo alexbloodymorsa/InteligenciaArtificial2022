@@ -1,2 +1,10 @@
 
 .DS_Store
+06p/.ipynb_checkpoints/IA-Práctica6-ClústerJeráquicoParticional-checkpoint.ipynb
+05p/.ipynb_checkpoints/IA-Práctica5-ClústerParticional-checkpoint.ipynb
+04p/.ipynb_checkpoints/IA-Práctica4-ClústerJerárquico-checkpoint.ipynb
+aplicacion-ia/__pycache__/app.cpython-37.pyc
+aplicacion-ia/apps/__pycache__/apriori.cpython-37.pyc
+aplicacion-ia/apps/__pycache__/cluster.cpython-37.pyc
+aplicacion-ia/apps/__pycache__/distancia.cpython-37.pyc
+aplicacion-ia/apps/__pycache__/home.cpython-37.pyc
